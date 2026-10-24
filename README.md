@@ -101,3 +101,4 @@ npm run dev
 ## 📄 License
 
 This project is created for educational and portfolio demonstration purposes. All movie data and imagery are provided by [The Movie Database (TMDB)](https://www.themoviedb.org/).
+

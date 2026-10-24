@@ -330,3 +330,4 @@ curl -X POST http://localhost:5000/api/watchlist/add \
 
 ### Q5: "No trailer available for this movie" in Watch Page.
 * **Explanation**: Not every movie listed in TMDB has an official YouTube trailer uploaded with `type: Trailer`. If unavailable, the fallback message is gracefully displayed.
+

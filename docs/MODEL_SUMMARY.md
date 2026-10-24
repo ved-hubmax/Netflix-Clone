@@ -307,3 +307,4 @@ Base URL: `https://api.themoviedb.org/3`
 3. **Helmet Header Protection**: HTTP headers are secured against Cross-Site Scripting (XSS), MIME sniffing, clickjacking, and open redirections.
 4. **CORS Isolation**: Restricts API calls to authorized origins.
 5. **Client-Side Optimization**: Built with Next.js 16 featuring image optimizations, font prefetching via `next/font/google`, and React 19 concurrent features.
+
